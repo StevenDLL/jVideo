@@ -23,7 +23,7 @@ Once You have downloaded and installed everything above open a command terminal 
 
 - Drag and drop the 3 SQL files included(in the jVideo.rar file you downloaded above) into the newly created database. Three new tables should appear in your database called ``` all_videos ``` , ``` filtered_list ``` , and ``` secondary_filtered_list ```.
 
-- Launch my program(by double clicking it the jVideo.jar file...) and 3 files will be created in whatever directory my program is in. You can take a guess at what each of those files is used for.
+- Launch my program(by double clicking the jVideo.jar file...) and 3 files will be created in whatever directory my program is in. You can take a guess at what each of those files is used for.
 
 - Go to the Settings tab and make sure the database information is correct.
 
