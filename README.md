@@ -15,6 +15,7 @@ I still thought it would be best to make it available to the public incase someo
 - 5byeWforIa59iXcmSBtA7xogztZJFGah0zJjW7MlRwA
 
 Once You have downloaded and installed everything above open a command terminal and check that the correct version of Java(Anything above Java SE 11) is being used by your system. If its not follow [This](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html) tutorial on how to make it do so.
+>If you are on windows you could just use the included .bat file to set Java to the correct version. What you have to first do is Right-Click the file -> Edit -> and change JAVA_HOME equal to the location of whatever Java version you downloaded. If you downloaded version 11.0.9 then you dont have to change anything before running the file.
 
 ## Setup:
 - Open XAMPP and start the Apache & MySQL Modules. Make sure that the MySQL server is on port 3306.
