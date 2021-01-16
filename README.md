@@ -7,14 +7,14 @@ I still thought it would be best to make it available to the public incase someo
 ## Required:
 | What | Where |
 | ---- | ----- |
-| My Program | Download [Here](https://mega.nz/file/60cSRDDQ) |
+| My Program | Download [Here](https://mega.nz/file/G5UnnQZK) |
 | Java(SE 11+) | Download from Oracle [Here](https://www.oracle.com/java/technologies/javase-downloads.html) |
 | XAMPP | Download from Apache Friends [Here](https://www.apachefriends.org/download.html) |
 
 #### Decryption Key: 
-- BJKEviGDHWHdZgi6z6C7994gn-QIGUN-dXZ7MzTHR9Q
+- 5byeWforIa59iXcmSBtA7xogztZJFGah0zJjW7MlRwA
 
-Once You have downloaded and installed everything above open a command terminal and check that the correct version of Java(Anything above Java SE 11) is being used by your system.
+Once You have downloaded and installed everything above open a command terminal and check that the correct version of Java(Anything above Java SE 11) is being used by your system. If its not follow [This](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html) tutorial on how to make it do so.
 
 ## Setup:
 - Open XAMPP and start the Apache & MySQL Modules. Make sure that the MySQL server is on port 3306.
