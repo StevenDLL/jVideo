@@ -7,7 +7,7 @@ I still thought it would be best to make it available to the public incase someo
 ## Required:
 | What | Where |
 | ---- | ----- |
-| My Program | Download [Here](https://mega.nz/file/SlsGRSAB) |
+| My Program | Download [Here](https://mega.nz/folder/Co1mBChB) |
 | Java(SE 11+) | Download from Oracle [Here](https://www.oracle.com/java/technologies/javase-downloads.html) |
 | XAMPP | Download from Apache Friends [Here](https://www.apachefriends.org/download.html) |
 
