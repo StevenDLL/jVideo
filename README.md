@@ -12,7 +12,7 @@ I still thought it would be best to make it available to the public incase someo
 | XAMPP | Download from Apache Friends [Here](https://www.apachefriends.org/download.html) |
 
 #### Decryption Key: 
-- dGSUVIEHdUdzaOCF1VJONxpyUejHsKDKxQSl81V3g3I
+- You should have this if you are supposed to have access to this program.
 
 Once You have downloaded and installed everything above open a command terminal and check that the correct version of Java(Anything above Java SE 11) is being used by your system. If its not follow [This](https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html) tutorial on how to make it do so.
 >If you are on Windows you could just use the included SetJavaVersion(WINDOWS).bat file to set Java to the correct version. What you have to first do is Right-Click the file -> Edit -> and change "JAVA_HOME=" to the location of whatever Java version you downloaded. If you downloaded version 11.0.9 then you dont have to change anything before running the file.
