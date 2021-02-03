@@ -1,10 +1,9 @@
 # jVideo
+![Image Of Program](https://i.imgur.com/dyJwcga.png "Program Image")
 The sole purpose of me creating this was programming practice with the Java language. 
 I still thought it would be best to make it available to the public incase someone would like to point out areas of improvement in my code(which there is always place for) so do send me criticism or maybe features you'd like to see added!
 >What I will NOT do is explain what the program does nor how to use it. You will have to figure that out on your own. 
 >But what I will explain is how to get the program up running because I feel like thats the bare minimum I should do.
-
-![Image Of Program](https://i.imgur.com/dyJwcga.png "Program Image")
 
 ## Required:
 | What | Where |
