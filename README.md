@@ -4,6 +4,8 @@ I still thought it would be best to make it available to the public incase someo
 >What I will NOT do is explain what the program does nor how to use it. You will have to figure that out on your own. 
 >But what I will explain is how to get the program up running because I feel like thats the bare minimum I should do.
 
+![Image Of Program](https://i.imgur.com/dyJwcga.png "Program Image")
+
 ## Required:
 | What | Where |
 | ---- | ----- |
